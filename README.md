@@ -1,2 +1,2 @@
-# The second Git Lab
+# The secnd Git Lab
 ## Second team member: <Jadin McManus>
