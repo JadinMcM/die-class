@@ -6,4 +6,4 @@
 	  master
 5. .vs, .gitignore, die.h, first-answers.md, README.md, second-answers.md, text.txt
 6. .vs, .gitignore, first-answers.md, README.md, second-answers.md, text.txt
-7. Yes
+7. No
