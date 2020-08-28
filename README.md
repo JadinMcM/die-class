@@ -1,4 +1,4 @@
 # The second Git Lab
 ## First team member: Jadin McManus
 ## Second team member: Jadin McManus
-This repository is an example of a C++ project.
+Die class project. It simulates a die and includes a driver program.
